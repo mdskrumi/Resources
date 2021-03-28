@@ -25,4 +25,7 @@
   * https://www.emailjs.com/
   * https://caniuse.com/
   * https://imagecompressor.com/
-  * https://css-tricks.com/
+
+## CSS
+ * https://courses.kevinpowell.co/courses/conquering-responsive-layouts/
+ * https://css-tricks.com/
