@@ -29,3 +29,6 @@
 ## CSS
  * https://courses.kevinpowell.co/courses/conquering-responsive-layouts/
  * https://css-tricks.com/
+
+## Free Domain
+ * https://www.freenom.com/en/index.html?lang=en
