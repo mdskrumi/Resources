@@ -3,6 +3,7 @@
 ## Deployment
   * https://www.heroku.com/
   * https://www.netlify.com/
+  * https://www.digitalocean.com/community/tutorials/how-to-deploy-a-react-application-with-nginx-on-ubuntu-20-04 [Guide]
 
 ## Free Images & Videos
   * https://unsplash.com/
