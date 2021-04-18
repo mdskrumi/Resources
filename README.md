@@ -21,6 +21,7 @@
   * https://www.freecodecamp.org/
   * https://www.theodinproject.com/
   * https://mem.dev/
+  * https://www.frontendmentor.io/
 
 ## General Tools
   * https://www.emailjs.com/
@@ -30,6 +31,7 @@
 ## CSS
  * https://courses.kevinpowell.co/courses/conquering-responsive-layouts/
  * https://css-tricks.com/
+ * https://cssgrid.io/
 
 ## Free Domain
  * https://www.freenom.com/en/index.html?lang=en
